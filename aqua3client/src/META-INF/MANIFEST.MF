@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: aqua3client.jar lib/aqua3server.jar lib/jbossall-client.jar lib/hibernate-core.jar
+Main-Class: main.Aqua3EditorApplication
